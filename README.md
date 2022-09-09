@@ -17,7 +17,7 @@ assim como conceitos de responsividade, além disso adicionei uma tela de cadast
 <table>
   <tr>
       <td>HTML</td>
-      <td><CSS</td>
+      <td>CSS</td>
   </tr>
 </table>
 
